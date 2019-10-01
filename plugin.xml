@@ -8,8 +8,8 @@
     <license>MIT</license>
     <author>Quiply Technologies GmbH - hello@quiply.com</author>
     <keywords>image,photo library,camera roll,gallery,image gallery</keywords>
-    <repo>https://github.com/quiply/SaveImage.git</repo>
-    <issue>https://github.com/quiply/SaveImage/issues</issue>
+    <repo>https://github.com/LightMind/cordova-plugin-save-image</repo>
+    <issue>https://github.com/LightMind/cordova-plugin-save-image/issues</issue>
 
     <engines>
         <engine name="cordova-android" version=">=6.3.0"/>
