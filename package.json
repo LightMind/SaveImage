@@ -11,9 +11,9 @@
     "description": "This plugin allows you to save an image file to the iOS Photo Library or Android Gallery.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/LightMind/SaveImage"
+        "url": "https://github.com/LightMind/cordova-plugin-save-image"
     },
-    "issue": "https://github.com/LightMind/SaveImage/issues",
+    "issue": "https://github.com/LightMind/cordova-plugin-save-image/issues",
     "keywords": [
         "image",
         "photo library",
@@ -40,5 +40,5 @@
         "url": "http://www.quiply.com"
     },
     "license": "MIT",
-    "homepage": "https://github.com/LightMind/SaveImage#readme"
+    "homepage": "https://github.com/LightMind/cordova-plugin-save-image#readme"
 }
